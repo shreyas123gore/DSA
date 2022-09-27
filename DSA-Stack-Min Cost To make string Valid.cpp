@@ -1,3 +1,6 @@
+// Problem link- https://www.codingninjas.com/codestudio/problems/minimum-cost-to-make-string-valid_1115770?leftPanelTab=0
+// TC-O(N) SC-O(N)
+
 #include <bits/stdc++.h> 
 int findMinimumCost(string str) 
 {
